@@ -59,11 +59,12 @@ A SaaS-style feature flag platform for managing features across companies and en
 
 ## Currently Learning
 
-* Advanced Java & Spring Boot
-* Data Structures & Algorithms
-* Full-Stack Development
-* AI / Generative AI
-* System Design fundamentals
+- Advanced Java & Spring Boot
+- Data Structures & Algorithms
+- Full-Stack Development
+- Generative AI & RAG
+- REST API Development
+- System Design Fundamentals
 
 ## Connect With Me
 
