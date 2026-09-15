@@ -2,9 +2,11 @@
 
 ### CSE Student | Full-Stack Developer | AI Enthusiast
 
-I'm a Computer Science Engineering student interested in building practical software solutions using **Java, Spring Boot, React, Python, and AI technologies**.
+I'm a Computer Science Engineering student passionate about building practical software solutions and exploring modern technologies.
 
-I enjoy working on backend development, REST APIs, databases, and AI-powered applications while continuously improving my problem-solving and development skills.
+My interests include backend development, full-stack applications, AI/GenAI, and building intelligent systems that solve real-world problems.
+
+Currently, I'm strengthening my skills in Java, Spring Boot, React, Python, SQL, Data Structures & Algorithms, and Generative AI.
 
 ## Tech Stack
 
