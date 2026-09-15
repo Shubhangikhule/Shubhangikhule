@@ -74,13 +74,6 @@ A SaaS-style feature flag platform for managing features across companies and en
 - REST API Development
 - System Design Fundamentals
 
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge)](https://shubhangikhule.github.io/Portfolio)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shubhangi-khule)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Shubhangikhule-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Shubhangikhule)
 
 ---
 
