@@ -38,21 +38,22 @@ I enjoy working on backend development, REST APIs, databases, and AI-powered app
 
 ## Featured Projects
 
-### Ask My Docs
+### Ask My Docs — AI-Powered Document Q&A
 
-RAG-based PDF document Q&A application that combines **hybrid retrieval, semantic search, BM25, cross-encoder reranking, and LLM-generated answers with citations.**
+A RAG-based PDF document Q&A application that combines document processing, hybrid retrieval, semantic search, BM25, cross-encoder reranking, and LLM-generated answers with source citations.
 
-**Tech:** Python, FastAPI, ChromaDB, Hugging Face, Groq
+**Tech:** Python • FastAPI • ChromaDB • Hugging Face • Groq
 
-[View Project](https://github.com/Shubhangikhule/Ask-my-docs)
+[View Repository →](https://github.com/Shubhangikhule/Ask-my-docs)
 
-### Feature Flag Platform
 
-SaaS-style feature flag management platform designed for **multi-tenant feature control, role-based rules, environments, and runtime feature evaluation.**
+### Feature Flag Platform — SaaS Feature Management
 
-**Tech:** Java, Spring Boot, Spring Security, PostgreSQL, React
+A SaaS-style feature flag platform for managing features across companies and environments with role-based rules and runtime feature evaluation.
 
-[View Project](https://github.com/Shubhangikhule/feature-flag-platform.)
+**Tech:** Java • Spring Boot • Spring Security • PostgreSQL • React
+
+[View Repository →](https://github.com/Shubhangikhule/feature-flag-platform)
 
 ## Currently Learning
 
