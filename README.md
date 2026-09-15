@@ -48,7 +48,7 @@ Currently, I'm strengthening my skills in Java, Spring Boot, React, Python, SQL,
 
 ## Featured Projects
 
-### Ask My Docs — AI-Powered Document Q&A
+### 01. Ask My Docs — AI-Powered Document Q&A
 
 A RAG-based PDF document Q&A application that combines document processing, hybrid retrieval, semantic search, BM25, cross-encoder reranking, and LLM-generated answers with source citations.
 
@@ -57,7 +57,7 @@ A RAG-based PDF document Q&A application that combines document processing, hybr
 [View Repository →](https://github.com/Shubhangikhule/Ask-my-docs)
 
 
-### Feature Flag Platform — SaaS Feature Management
+### 02. Feature Flag Platform — SaaS Feature Management
 
 A SaaS-style feature flag platform for managing features across companies and environments with role-based rules and runtime feature evaluation.
 
